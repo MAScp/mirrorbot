@@ -1,9 +1,9 @@
 {
-    "token": "insert token here",
+    "token": "ODQ5NjY4OTQ3ODkyMjQwNDA1.GN6pMT.WBQr8RiCaRJAAqbkmxx1eqGzC4Lb68XSanyt4c",
     "info": true,
     "channels": {
 
-        "Chanel ID 1 (replace all this)": "webhook (replace all this)",
+        "1020060211295309905": "https://discord.com/api/webhooks/998211155388539020/sbTJEIVKXX_m7zi_8OGF6Y9PA8vQomQgvlfaqdlxbmVwVIuOBK8iYsHbISnWC1LER1Ks",
         "Chanel ID 2 (replace all this)": "webhook (replace all this)",
         "Chanel ID 3 (replace all this)": "webhook (replace all this)"
     }
